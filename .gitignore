@@ -1,0 +1,16 @@
+# Node modules (should never be committed)
+node_modules/
+
+# Log files
+*.log
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Screenshot images
+*.png
+*.jpg
+
+# Environment files (for secrets)
+.env
